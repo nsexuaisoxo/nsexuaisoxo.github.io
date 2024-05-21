@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://nsexuaisoxo.github.io/rss/sitemap.txt
